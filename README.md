@@ -2,6 +2,8 @@
 - 👀 Developer🐺
 - 🌱 I’m currently exploring web3
 - 💞️ I’m looking to collaborate on MERN Projects
+- ✉️ boseb2516@gmail.com
+- 🕸️ check -> https://bose14.netlify.app/
 - 📫 Insta : bose__14
 - 😄 Live let Live
   
