@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bose1407
 - 👀 Developer🐺
-- 🌱 I’m currently exploring web3
+- 🌱 Exploring web3
 - 💞️ I’m looking to collaborate on MERN Projects
 - ✉️ boseb2516@gmail.com
 - 🕸️ check -> https://bose14.netlify.app/
