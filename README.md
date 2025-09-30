@@ -32,25 +32,3 @@ Hi, I'm **Bose** 👋
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bose1407&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bose1407&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bose1407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bose1407&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bose1407&limit=5&theme=bear&combine_all_yearly_contributions=true)
-
