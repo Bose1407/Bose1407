@@ -3,7 +3,7 @@ Hi, I'm **Bose** 👋
 
 🎓 Final Year B.Tech (Information Technology) | 2022–26  
 💼 Placed as **Java Full Stack Developer**  
-💻 Built projects in **MERN stack** and explored **Web3 development**  
+💻 Built projects in **Java FS**,**MERN stack** and explored **Web3 development**  
 🚀 Currently sharpening skills in **Java Full Stack Development** (Spring Boot, REST APIs, SQL, Angular/React)  
 🤝 Open to collaborating on full-stack projects and innovative ideas  
 📧 Reach me: **boseb2516@gmail.com**  
